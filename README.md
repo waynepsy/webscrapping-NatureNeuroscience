@@ -1,4 +1,4 @@
-# webscrapping-NatureNeuroscience
+# webscrapping
 a python file to webscrap the article information on Journal of Nature Neuroscience
 I created some python file to scrape the article information from nature neuroscience
 Pages.py can help you collect the article number
