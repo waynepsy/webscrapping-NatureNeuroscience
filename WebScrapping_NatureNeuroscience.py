@@ -1,18 +1,8 @@
-import bs4 as bs
-import urllib.request
 import requests
 import re
-import json
-import time
-from requests.exceptions import RequestException
-from multiprocessing.dummy import Pool
-from selenium import webdriver
 from bs4 import BeautifulSoup as bs
 import csv
-from openpyxl import workbook
 import unicodedata
-import xlwt
-from xlwt import Workbook
 headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0"}
 list1=[]
 for num in range (1,11):
