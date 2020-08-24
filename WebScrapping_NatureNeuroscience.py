@@ -60,8 +60,8 @@ for article_label in list1:
     # print(a_list1)
 
 #
-# wb = workbook.Workbook()  # 创建Excel对象
-# ws = wb.active  # 获取当前正在操作的表对象
+# wb = workbook.Workbook()  # create excel
+# ws = wb.active  # obtain
 # ws.append([u'url',u'title',u'journal',u'date',u'dep',u'a_list1'])
 # for i in range(50):
 #     ws.append([url1[i],title1[i],journal1[i],date1[i],dep1[i],a_list1[i]])
